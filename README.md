@@ -1,4 +1,4 @@
-
+  [![DOI](https://zenodo.org/badge/324964344.svg)](https://zenodo.org/badge/latestdoi/324964344)
   # Mars G90 model
 
   Martian crustal field model_G90:
