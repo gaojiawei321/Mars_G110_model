@@ -1,12 +1,16 @@
-# Mars_G90model
-Martian crustal field model-G90
+
+  # Mars G90 model
+
+  Martian crustal field model_G90
+  A spherical harmonic curstal field model describe the Martian crustal field
+   
+  # Description
+ 
+ 
+  # Requirements
   
-dfg
-df
+  # Results
   
   
-  
-  www.baidu.com
-  
-  
-  
+  # License
+  This code is covered under the MIT License.
