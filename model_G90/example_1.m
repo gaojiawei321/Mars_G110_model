@@ -10,7 +10,7 @@ for i=1:jg-1
     for j=1:wg-1
        
         [x,y,z] = sph2cart(jing(i),wei(j),r);
-        Bping(i,j,:)=gao([x y z]');
+        Bping(i,j,:)=mgao([x y z]');
         
         
     end
