@@ -1,7 +1,14 @@
   [![DOI](https://zenodo.org/badge/324964344.svg)](https://zenodo.org/badge/latestdoi/324964344)
-  # Mars G90 model
+  
+  
+  
+  # Mars G110 model
+  
+  
+  ## This model has been changed to 100 degree!!
+  
 
-  Martian crustal field model_G90:
+  Martian crustal field model_G110:
   A spherical harmonic curstal field model describing the Martian crustal field
   ![LOGO](Figure/figure2.png)
   
