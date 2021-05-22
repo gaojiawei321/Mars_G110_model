@@ -5,7 +5,7 @@
   # Mars G110 model
   
   
-  ## This model has been changed to 100 degree!!
+  ## This model has been changed to 110 degree
   
 
   Martian crustal field model_G110:
