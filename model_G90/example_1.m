@@ -10,7 +10,7 @@ for i=1:jg-1
     for j=1:wg-1
        
         [x,y,z] = sph2cart(jing(i),wei(j),r);
-        Bping(i,j,:)=mgao([x y z]','g_110_mm_jiald','h_110_mm_jiald');
+        Bping(i,j,:)=mgao([x y z]','g_110_mm_q','h_110_mm_q');
         
         
     end
