@@ -8,8 +8,8 @@ nmax=150;
 %h=hc;
 %load h_ceshi.mat
 %load g_ceshi.mat
-load g_90_mm_jial.mat
-load h_90_mm_jial.mat
+load g_110_mm_q.mat
+load h_110_mm_q.mat
 
 %load spherical harmonic coefficients
 %rplanet= Mars radiu;
