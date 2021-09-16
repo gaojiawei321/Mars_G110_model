@@ -11,7 +11,7 @@
 
   Martian crustal field model_G110:
   A spherical harmonic curstal field model describing the Martian crustal field
-  ![LOGO](Figure/figure2.png)
+  ![LOGO](Figure/image.png)
   
   # Description
  
