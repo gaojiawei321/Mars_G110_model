@@ -4,7 +4,7 @@
   
   # Mars G110 model
   
-  ## This model has been revised and g_110_mm_q.mat and h_110_mm_q.mat is used as coefficients now.
+  ## This model has been revised and g_110_mm_q.mat and h_110_mm_q.mat is the SH coefficients now.
   
   ## This model has been changed to 110 degree
   
