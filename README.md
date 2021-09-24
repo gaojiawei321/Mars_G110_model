@@ -1,6 +1,6 @@
   [![DOI](https://zenodo.org/badge/324964344.svg)](https://zenodo.org/badge/latestdoi/324964344)
   
-  [![DOI](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021EA001860)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021EA001860)
+  [![Paper](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021EA001860)](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2021EA001860)
   
   
   
