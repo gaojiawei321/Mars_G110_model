@@ -1,6 +1,6 @@
   [![DOI](https://zenodo.org/badge/324964344.svg)](https://zenodo.org/badge/latestdoi/324964344)
   
-  [![Paper](https://doi.org/10.1029/2021EA001860.svg)](https://doi.org/10.1029/2021EA001860)
+  [![Paper](https://doi.org/10.1029/2021EA001860)
   
   
   
