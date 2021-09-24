@@ -1,8 +1,6 @@
   [![DOI](https://zenodo.org/badge/324964344.svg)](https://zenodo.org/badge/latestdoi/324964344)
   
-https://agupubs.onlinelibrary.wiley.com/share/7SX4K2YCTHW9NI2YSBKH?target=10.1029/2021EA001860
-  
-  
+ https://doi.org/10.1029/2021EA001860
   
   
   # Mars G110 model
