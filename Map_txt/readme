@@ -1,1 +1,5 @@
-asdfasdf
+In case anyone who do not want to run the model code, some crustal field maps (in .txt) are also provided.
+
+G110 crustal field maps at 120 km, 200 km, and 400 km are provided, containing Br, Btheta, and Bphi maps in planetocentric (PC) coordinate
+
+Longitude range: 0.5:0.5:360 deg;  Latitude range: -90:0.5:90 deg.
