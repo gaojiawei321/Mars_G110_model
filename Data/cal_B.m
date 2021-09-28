@@ -1,6 +1,7 @@
 clear all;close all;clc
 
-load qdy
+load qdq
+%the data you want to calculate the SH coefficient
 
 %Bq=Bq(2765:1:end,:);
 %PCq=PCq(2765:1:end,:);
@@ -24,7 +25,10 @@ B(x2)=bsph(2,:);
 B(x3)=bsph(3,:);
 
 
-save('By.mat','B');
+save('B_q.mat','B');
+% the B data in SH calculate.
+
+
 
 
 
