@@ -1,8 +1,8 @@
 clear all;close all;clc
 %load Bq;
 %load pcq;
-load qd_jie2
-load B
+load qdq. %
+load B_q
 
 B=B';
 load Cdn
