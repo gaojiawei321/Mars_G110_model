@@ -5,7 +5,7 @@ wg=90;
 jing=linspace(-pi,pi,jg);
 wei=linspace(-pi/2,pi/2,wg);
 rm=3393;
-r=rm+00;
+r=rm+120;
 for i=1:jg-1
     for j=1:wg-1
        
@@ -27,7 +27,7 @@ shading interp
 colormap jet
 xlabel('longitude')
 ylabel('latitude')
-title('curstal field Bx at Martian surface (nT)')
+title('curstal field Bx at 120 km altitude (nT)')
 pos=[0 0 30 15];
 colorbar
 
