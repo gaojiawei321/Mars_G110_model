@@ -172,8 +172,8 @@ text(1.5,-1.5,'360^o')
 ax2=axes('position',[0.1,0.65,0.8,0.4])  ;
 
 axesm eckert4; 
-%framem;
-%gridm;
+framem;
+gridm;
 axis off
 
 geoidrefvec=[2,90,180]; 
@@ -224,8 +224,8 @@ text(1.5,-1.5,'360^o')
 ax2=axes('position',[0.1,0.35,0.8,0.4])  ;
 
 axesm eckert4; 
-%framem;
-%gridm;
+framem;
+gridm;
 axis off
 
 geoidrefvec=[2,90,180]; 
@@ -289,8 +289,8 @@ set(hcb,'TickLabels', {' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' ',' '})
 ax2=axes('position',[0.1,0.05,0.8,0.4])  ;
 
 axesm eckert4; 
-%framem;
-%gridm;
+framem;
+gridm;
 axis off
 
 geoidrefvec=[2,90,180]; 
