@@ -11,8 +11,8 @@
   
   ## This model has been changed to 110 degree
   
-  # note that  
-  
+  ## note that   framem; gridm; in Figure 8 is added. 
+   
   Martian crustal field model_G110:
   A spherical harmonic curstal field model describing the Martian crustal field
   
