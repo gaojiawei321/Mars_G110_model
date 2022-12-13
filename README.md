@@ -36,7 +36,7 @@
   
   # Results
   
-  Just run the example_1.m in Matlab, you will get a crustal field map of crustal field Bx component at 129 km altitude. You can change the ploting altitude by changing 'r' in the code. The spherical harmonic coefficients are provied in g_110_mm_q.mat and h_110_mm_q.mat.
+  Just run the example_1.m in Matlab, you will get a crustal field map of crustal field Bx component at 120 km altitude. You can change the ploting altitude by changing 'r' in the code. The spherical harmonic coefficients are provied in g_110_mm_q.mat and h_110_mm_q.mat.
   
   # License
   This code is covered under the MIT License.
